@@ -51,6 +51,14 @@ while True:
  
 # OUTPUT :
 
+CLIENT:
+
+![ping command client](https://github.com/Gopika-9266/EX-6/assets/122762773/d5898dbe-65fb-4b38-b5a4-2f414b302e37)
+
+
+SERVER:
+
+![ping command server](https://github.com/Gopika-9266/EX-6/assets/122762773/66aad304-a766-407b-8158-92bc3e25d6f7)
 
 
 # RESULT :
